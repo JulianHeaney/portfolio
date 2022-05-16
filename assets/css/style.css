@@ -141,6 +141,13 @@
     margin: 0 auto 35px auto;
     width: 50%;
   }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
   
   .primary-border {
     border-color: var(--primary-color);
